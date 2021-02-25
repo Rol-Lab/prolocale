@@ -1,0 +1,2 @@
+# prolocale
+Local repository
